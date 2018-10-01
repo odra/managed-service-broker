@@ -1,5 +1,5 @@
-TAG = 1.1.0
-DOCKERORG = quay.io/integreatly
+TAG = 1.0.test1
+DOCKERORG = sedroche
 BROKER_IMAGE_NAME = managed-service-broker
 
 .phony: build_and_push
